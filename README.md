@@ -4,6 +4,10 @@
 
 NutriAI is a React web application with a Vite development server, a small Express API for AI features, and optional Supabase authentication and cloud storage. You can run the dashboard in local demo mode without Supabase, or connect a hosted/local Supabase project to save an account's profile and nutrition data.
 
+## App preview
+
+![NutriAI dashboard preview](public/nutriai-dashboard.png)
+
 > **Nutrition notice:** AI-generated nutrition values and meal suggestions are estimates for general information only. They are not medical advice, diagnosis, or treatment. Consult a qualified healthcare professional for individual medical or dietary needs.
 
 ## Features
